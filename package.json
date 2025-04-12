@@ -1,0 +1,16 @@
+{
+  "name": "bemycoverage1",
+  "version": "1.0.0",
+  "description": "> **Project Name:**         Be My Coverage1 (BMC1-COV)   > **Parent Ecosystem:**     Be My Crypto1 (BMC1)   > **Token Symbol:**         BMC1   > **Type:**                 Decentralized Car Insurance Smart Contract System   > **Time Commitment:**      6 hrs/day, 6 days/week   > **Estimated Completion:** 8 Weeks   > **Rest Day:**             1 day/week (recommended for mental and creative recovery)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.23.0"
+  }
+}
